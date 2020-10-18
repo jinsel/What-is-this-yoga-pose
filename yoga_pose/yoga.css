@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap");
+
+body{
+ background-color:#E7D6C6;
+}
+.continer{
+  position: absolute;
+  top: 25%;
+  left: 55%;
+  transform: translate(-50%, -50%);
+  margin: auto;
+  z-index: 2;
+  width: 100%;
+}
+h1{
+  font-family: "Montserrat", sans-serif;
+  font-size: 50px;
+  font-weight: 300;
+  color: #000000;
+}
+video{
+  position: absolute;
+  top: 45%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  margin: auto;
+}
